@@ -24,7 +24,7 @@ const mongooseSchema = mongoose.Schema({
         type : String,
         required : true
     }, 
-    fill_name :
+    full_name :
     {
         type : String,
         required : true
